@@ -1,0 +1,14 @@
+name: wandb-svm-tutorial
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pyyaml
+  - pip:
+      - wandb
