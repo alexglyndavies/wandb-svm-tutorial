@@ -1,0 +1,13 @@
+# Defaults for a single training run.
+# A W&B sweep will override these values with the sampled hyperparameters.
+
+n_samples: 1000
+noise: 0.30
+test_size: 0.30
+random_state: 1
+
+kernel: rbf
+C: 3.
+gamma: 1.
+
+log_plot: true
