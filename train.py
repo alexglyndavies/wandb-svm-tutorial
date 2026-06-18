@@ -15,7 +15,7 @@ from sklearn.inspection import DecisionBoundaryDisplay
 from sklearn.metrics import accuracy_score, f1_score
 from sklearn.model_selection import train_test_split
 
-PROJECT_NAME = "wandb-tutorial"
+PROJECT_NAME = "wandb-svm-tutorial"
 DEFAULT_CONFIG_PATH = Path("configs/default.yaml")
 
 

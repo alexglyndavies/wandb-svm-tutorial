@@ -1,5 +1,5 @@
 program: train.py
-project: wandb-tutorial
+project: wandb-svm-tutorial
 
 method: grid
 
